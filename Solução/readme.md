@@ -1,0 +1,1 @@
+O seguinte arquivo contem a solução, no caso é utilizada a condição de biapoio, para outras condições é necessário mudar o vetor CC, caso deseje mudar as condições de forçamento deve-se mudar o vetor F.
