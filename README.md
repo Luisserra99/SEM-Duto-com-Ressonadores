@@ -15,4 +15,4 @@ A pasta de validação apresenta todos os códigos de validação que costituem 
 
 ### Solução
 
-A pasta solução apresenta o arquivo final utilizado nas validações.
+A pasta solução apresenta o arquivo final utilizado para o método do elemento espectral.
